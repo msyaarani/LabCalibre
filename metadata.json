@@ -1,0 +1,6 @@
+{
+  "name": "LabCalibre",
+  "description": "Laboratory Instrument Calibration & Verification Management System with automated pass/fail tolerance calculation, QR scanning, AI certificate auto-extract, and auto-quarantine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
