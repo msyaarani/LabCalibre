@@ -64,10 +64,11 @@ Di kebanyakan makmal tradisional:
 ## Cara Mencuba
 
 Aplikasi ini telah dideploy dan boleh diakses secara langsung melalui pelayar web:
-- **Pautan Aplikasi (Preview Live):** [https://ais-pre-zdhlazabdvibjsyn3igrmg-858942738839.asia-northeast1.run.app](https://ais-pre-zdhlazabdvibjsyn3igrmg-858942738839.asia-northeast1.run.app)
+- **Pautan Aplikasi Remix Utama (Live Web App):** [https://remix-labcalibre-1780.ai.studio/](https://remix-labcalibre-1780.ai.studio/)
+- **Pautan Aplikasi Sandaran (Cloud Run Preview):** [https://ais-pre-zdhlazabdvibjsyn3igrmg-858942738839.asia-northeast1.run.app](https://ais-pre-zdhlazabdvibjsyn3igrmg-858942738839.asia-northeast1.run.app)
 - **Pautan Pembangunan (Dev URL):** [https://ais-dev-zdhlazabdvibjsyn3igrmg-858942738839.asia-northeast1.run.app](https://ais-dev-zdhlazabdvibjsyn3igrmg-858942738839.asia-northeast1.run.app)
 
-*Nota: Anda boleh menguji peranan berbeza (Operator, Supervisor, Officer) secara terus melalui suis peranan di bahagian atas antaramuka.*
+*Nota: Anda boleh menguji peranan berbeza (Operator, Supervisor, Officer) secara terus melalui suis peranan di bahagian atas antaramuka, serta mencuba Virtual Test Bench dan Interactive Lab Floor Plan.*
 
 ---
 

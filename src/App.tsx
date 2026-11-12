@@ -128,8 +128,17 @@ const MainLayout: React.FC = () => {
             <span>·</span>
             <span>Laboratory Instrument Calibration & Verification Management System</span>
           </div>
-          <div>
-            ISO/IEC 17025 & OIML Compliant · Malaysian Rubber Board (LGM)
+          <div className="flex items-center gap-3">
+            <span>ISO/IEC 17025 & OIML Compliant · LGM UPKS</span>
+            <span>·</span>
+            <a
+              href="https://remix-labcalibre-1780.ai.studio/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-teal-700 hover:text-teal-800 font-semibold underline decoration-teal-300 underline-offset-2"
+            >
+              remix-labcalibre-1780.ai.studio
+            </a>
           </div>
         </div>
       </footer>

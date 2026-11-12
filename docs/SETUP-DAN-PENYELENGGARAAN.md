@@ -60,6 +60,7 @@ npm run dev
 
 - Pelayan akan dimulakan pada port **3000**.
 - Buka pelayar web anda dan layari: `http://localhost:3000`.
+- Atau akses versi web awam secara terus di: [https://remix-labcalibre-1780.ai.studio/](https://remix-labcalibre-1780.ai.studio/)
 
 ---
 
